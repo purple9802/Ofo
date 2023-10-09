@@ -163,9 +163,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "642e76786e7f53f7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
