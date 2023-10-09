@@ -1,2 +1,0 @@
-# Ofo
-obsidian

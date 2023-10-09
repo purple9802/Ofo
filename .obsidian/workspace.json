@@ -19,16 +19,38 @@
             "id": "eb9ad02e1b0750e5",
             "type": "leaf",
             "state": {
+              "type": "make-folder-view",
+              "state": {
+                "contextPath": "Ofo//"
+              }
+            }
+          },
+          {
+            "id": "f2f11782baaf804e",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "오포는 신인가에 대한 고찰.md",
+                "file": "Templates/Weekly planner.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a4f061b59c68592",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Weekly planner.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,6 +95,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "e1ae8322219cdb44",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -94,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "오포는 신인가에 대한 고찰.md",
+                "file": "Templates/Weekly planner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "오포는 신인가에 대한 고찰.md",
+                "file": "Templates/Weekly planner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,11 +164,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "오포는 신인가에 대한 고찰.md"
+                "file": "Templates/Weekly planner.md"
               }
             }
+          },
+          {
+            "id": "8e5e75201f2c3f04",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -156,6 +195,12 @@
   },
   "active": "225f153b62d33ba3",
   "lastOpenFiles": [
-    "오포는 신인가에 대한 고찰.md"
+    "오포는 신인가에 대한 고찰.md",
+    "Templates/Daily planner.md",
+    "Templates/Weekly planner.md",
+    "Templates",
+    "Context/spacesLastSync.log",
+    "Context",
+    "README.md"
   ]
 }
