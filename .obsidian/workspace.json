@@ -173,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -191,8 +191,8 @@
   },
   "active": "c553b5e8f00a3a56",
   "lastOpenFiles": [
-    "Templates/Weekly planner.md",
     "Templates/Daily planner.md",
+    "Templates/Weekly planner.md",
     "Templates/Templates.md",
     "Templates/context.mdb",
     "오포는 신인가에 대한 고찰.md",
