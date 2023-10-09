@@ -26,19 +26,7 @@
             }
           },
           {
-            "id": "f2f11782baaf804e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Weekly planner.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a4f061b59c68592",
+            "id": "c553b5e8f00a3a56",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,7 +38,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,11 +181,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "225f153b62d33ba3",
+  "active": "c553b5e8f00a3a56",
   "lastOpenFiles": [
-    "오포는 신인가에 대한 고찰.md",
-    "Templates/Daily planner.md",
     "Templates/Weekly planner.md",
+    "Templates/Daily planner.md",
+    "Templates/Templates.md",
+    "Templates/context.mdb",
+    "오포는 신인가에 대한 고찰.md",
     "Templates",
     "Context/spacesLastSync.log",
     "Context",

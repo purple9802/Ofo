@@ -34,10 +34,13 @@
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
-  "expandedFolders": {},
+  "expandedFolders": {
+    "Ofo": []
+  },
   "expandedSpaces": [
     "/",
-    null
+    null,
+    "Ofo"
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
@@ -68,7 +71,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1696865207620,
+  "spacesAutoBackupLast": 1696865679904,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
