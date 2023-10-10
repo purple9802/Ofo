@@ -16,29 +16,19 @@
             }
           },
           {
-            "id": "eb9ad02e1b0750e5",
-            "type": "leaf",
-            "state": {
-              "type": "make-folder-view",
-              "state": {
-                "contextPath": "Ofo//"
-              }
-            }
-          },
-          {
-            "id": "c553b5e8f00a3a56",
+            "id": "8a11ea8a98b8ffe8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Weekly planner.md",
+                "file": "송영운은 신이 맞다..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +82,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -112,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Weekly planner.md",
+                "file": "송영운은 신이 맞다..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Weekly planner.md",
+                "file": "송영운은 신이 맞다..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Weekly planner.md"
+                "file": "송영운은 신이 맞다..md"
               }
             }
           },
@@ -173,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -189,13 +180,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c553b5e8f00a3a56",
+  "active": "8a11ea8a98b8ffe8",
   "lastOpenFiles": [
+    "송영운은 신이 맞다..md",
+    "Templates/Templates.md",
+    "오포는 신인가에 대한 고찰.md",
     "Templates/Weekly planner.md",
     "Templates/Daily planner.md",
-    "Templates/Templates.md",
     "Templates/context.mdb",
-    "오포는 신인가에 대한 고찰.md",
     "Templates",
     "Context/spacesLastSync.log",
     "Context",
