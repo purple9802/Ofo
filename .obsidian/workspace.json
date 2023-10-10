@@ -36,9 +36,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "47dc5fee89028d9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Abstract for conference.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Weekly planner.md",
+                "file": "Abstract for conference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Weekly planner.md",
+                "file": "Abstract for conference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Weekly planner.md"
+                "file": "Abstract for conference.md"
               }
             }
           },
@@ -189,10 +201,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "225f153b62d33ba3",
+  "active": "47dc5fee89028d9b",
   "lastOpenFiles": [
-    "Templates/Daily planner.md",
     "Templates/Weekly planner.md",
+    "Abstract for conference.md",
+    "Templates/Daily planner.md",
     "Templates/Templates.md",
     "Templates/context.mdb",
     "오포는 신인가에 대한 고찰.md",
