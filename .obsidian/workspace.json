@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily planner.md",
+                "file": "Templates/Weekly planner.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily planner.md",
+                "file": "Templates/Weekly planner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily planner.md"
+                "file": "Templates/Weekly planner.md"
               }
             }
           },
@@ -142,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily planner.md",
+                "file": "Templates/Weekly planner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -170,13 +171,20 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "642e76786e7f53f7",
+  "active": "70edae81635d972f",
   "lastOpenFiles": [
-    "Templates/Weekly planner.md",
     "Templates/Daily planner.md",
-    "Templates/Templates.md",
-    "오포는 신인가에 대한 고찰.md",
+    "Templates/Weekly planner.md",
+    "2. Weekly Plan/2023-W41.md",
+    "Daily Plan/2023-10-11.md",
+    "Daily Plan",
+    "2. Weekly Plan",
+    "Daily Plan/Invalid date.md",
+    "무제 파일.md",
+    "1. Daily Plan",
     "송영운은 신이 맞다..md",
+    "오포는 신인가에 대한 고찰.md",
+    "Templates/Templates.md",
     "Templates/context.mdb",
     "Templates",
     "Context/spacesLastSync.log",
