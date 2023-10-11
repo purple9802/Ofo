@@ -11,24 +11,15 @@
             "id": "70edae81635d972f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8a11ea8a98b8ffe8",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "송영운은 신이 맞다..md",
+                "file": "Templates/Daily planner.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,29 +88,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "370931d7805038db",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "송영운은 신이 맞다..md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "174ace5a995bf35e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "송영운은 신이 맞다..md",
+                "file": "Templates/Daily planner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "송영운은 신이 맞다..md"
+                "file": "Templates/Daily planner.md"
               }
             }
           },
@@ -162,13 +135,30 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "1f9d3ad8fa187978",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/Daily planner.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,13 +170,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8a11ea8a98b8ffe8",
+  "active": "642e76786e7f53f7",
   "lastOpenFiles": [
-    "송영운은 신이 맞다..md",
-    "Templates/Templates.md",
-    "오포는 신인가에 대한 고찰.md",
     "Templates/Weekly planner.md",
     "Templates/Daily planner.md",
+    "Templates/Templates.md",
+    "오포는 신인가에 대한 고찰.md",
+    "송영운은 신이 맞다..md",
     "Templates/context.mdb",
     "Templates",
     "Context/spacesLastSync.log",
