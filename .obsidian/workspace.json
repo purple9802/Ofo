@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Weekly planner.md",
+                "file": "1. Daily Plan/2023-10-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Weekly planner.md",
+                "file": "1. Daily Plan/2023-10-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Weekly planner.md"
+                "file": "1. Daily Plan/2023-10-11.md"
               }
             }
           },
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Weekly planner.md",
+                "file": "1. Daily Plan/2023-10-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,9 +172,10 @@
   },
   "active": "70edae81635d972f",
   "lastOpenFiles": [
+    "2. Weekly Plan/2023-W41.md",
+    "1. Daily Plan/2023-10-11.md",
     "Templates/Daily planner.md",
     "Templates/Weekly planner.md",
-    "2. Weekly Plan/2023-W41.md",
     "Daily Plan/2023-10-11.md",
     "Daily Plan",
     "2. Weekly Plan",
