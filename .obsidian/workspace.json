@@ -48,9 +48,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3b49759c6b30daaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abstract for conference.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Abstract for conference.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Abstract for conference.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -201,10 +213,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "47dc5fee89028d9b",
+  "active": "3b49759c6b30daaa",
   "lastOpenFiles": [
-    "Templates/Weekly planner.md",
     "Abstract for conference.md",
+    "conflict-files-obsidian-git.md",
+    "Templates/Weekly planner.md",
     "Templates/Daily planner.md",
     "Templates/Templates.md",
     "Templates/context.mdb",
