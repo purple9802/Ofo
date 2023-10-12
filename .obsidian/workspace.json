@@ -8,24 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "70edae81635d972f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "eb9ad02e1b0750e5",
-            "type": "leaf",
-            "state": {
-              "type": "make-folder-view",
-              "state": {
-                "contextPath": "Ofo//"
-              }
-            }
-          },
-          {
             "id": "c553b5e8f00a3a56",
             "type": "leaf",
             "state": {
@@ -38,43 +20,19 @@
             }
           },
           {
-            "id": "47dc5fee89028d9b",
+            "id": "46f49ef6ba94603e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Abstract for conference.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b49759c6b30daaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Abstract for conference.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6701bbf42e2c3f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Abstract for conference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Abstract for conference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Abstract for conference.md"
               }
             }
           },
@@ -225,18 +183,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e6701bbf42e2c3f7",
+  "active": "46f49ef6ba94603e",
   "lastOpenFiles": [
-    "Abstract for conference.md",
-    "conflict-files-obsidian-git.md",
-    "1. Daily Plan/2023-10-11.md",
-    "2. Weekly Plan/2023-W41.md",
     "3. MnBi/Write an abstract.md",
+    "Templates/Daily planner.md",
+    "Templates/Weekly planner.md",
+    "Abstract for conference.md",
+    "1. Daily Plan/2023-10-11.md",
+    "2023-10-12.md",
+    "conflict-files-obsidian-git.md",
+    "2. Weekly Plan/2023-W41.md",
     "3. MnBi",
     "2. Weekly Plan",
     "1. Daily Plan",
-    "Templates/Weekly planner.md",
-    "Templates/Daily planner.md",
     "Templates/Templates.md",
     "Templates/context.mdb",
     "오포는 신인가에 대한 고찰.md",
