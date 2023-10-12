@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Weekly Plan/2023-W41.md",
+                "file": "1. Daily Plan/2023-10-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Weekly Plan/2023-W41.md",
+                "file": "1. Daily Plan/2023-10-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Weekly Plan/2023-W41.md"
+                "file": "1. Daily Plan/2023-10-13.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Weekly Plan/2023-W41.md",
+                "file": "1. Daily Plan/2023-10-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,10 +185,10 @@
   },
   "active": "59073c29d85efe28",
   "lastOpenFiles": [
-    "1. Daily Plan/2023-10-13.md",
     "1. Daily Plan/2023-10-12.md",
-    "1. Daily Plan/2023-10-11.md",
+    "1. Daily Plan/2023-10-13.md",
     "2. Weekly Plan/2023-W41.md",
+    "1. Daily Plan/2023-10-11.md",
     "3. MnBi/Write an abstract.md",
     "Templates/Weekly planner.md",
     "Abstract for conference.md",
