@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. About the magnet/Papers/1. Manufacturing process of PM.md",
+                "file": "1. Daily Plan/2023-10-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. About the magnet/Papers/1. Manufacturing process of PM.md",
+                "file": "1. Daily Plan/2023-10-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. About the magnet/Papers/1. Manufacturing process of PM.md"
+                "file": "1. Daily Plan/2023-10-13.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. About the magnet/Papers/1. Manufacturing process of PM.md",
+                "file": "1. Daily Plan/2023-10-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -195,15 +195,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "225f153b62d33ba3",
+  "active": "87df572dfe99153c",
   "lastOpenFiles": [
-    "3. About the magnet/Papers/2022 + ManufacturingProcessesforPermanentMagnetsPartI_SinteringandCasting.pdf",
-    "3. About the magnet/Papers/1. Manufacturing process of PM.md",
-    "4. MnBi/4. MnBi.md",
-    "2. Weekly Plan/2023-W41.md",
-    "1. Daily Plan/2023-10-13.md",
-    "1. Daily Plan/2023-10-12.md",
     "1. Daily Plan/2023-10-11.md",
+    "1. Daily Plan/2023-10-12.md",
+    "1. Daily Plan/2023-10-13.md",
+    "2. Weekly Plan/2023-W41.md",
+    "3. About the magnet/Papers/1. Manufacturing process of PM.md",
+    "3. About the magnet/Papers/2022 + ManufacturingProcessesforPermanentMagnetsPartI_SinteringandCasting.pdf",
+    "4. MnBi/4. MnBi.md",
     "2022 + ManufacturingProcessesforPermanentMagnetsPartI_SinteringandCasting 1.pdf.md",
     "3. About the magnet/Papers/2022 + ManufacturingProcessesforPermanentMagnetsPartII_BondingandEmergingMethods 1.pdf",
     "Abstract for conference.md",
