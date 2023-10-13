@@ -98,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,10 +197,16 @@
   },
   "active": "87df572dfe99153c",
   "lastOpenFiles": [
-    "2022 + ManufacturingProcessesforPermanentMagnetsPartII_BondingandEmergingMethods.pdf",
-    "2022 + ManufacturingProcessesforPermanentMagnetsPartI_SinteringandCasting.pdf",
-    "2. Weekly Plan/2023-W41.md",
+    "3. About the magnet/Papers/2022 + ManufacturingProcessesforPermanentMagnetsPartI_SinteringandCasting.pdf",
     "3. About the magnet/Papers/Manufacturing process of NdFeB.md",
+    "2022 + ManufacturingProcessesforPermanentMagnetsPartI_SinteringandCasting 1.pdf.md",
+    "3. About the magnet/Papers/2022 + ManufacturingProcessesforPermanentMagnetsPartII_BondingandEmergingMethods 1.pdf",
+    "Abstract for conference.md",
+    "2022 + ManufacturingProcessesforPermanentMagnetsPartI_SinteringandCasting 1",
+    "4. MnBi/4. MnBi.md",
+    "2022 + ManufacturingProcessesforPermanentMagnetsPartI_SinteringandCasting 1/2022 + ManufacturingProcessesforPermanentMagnetsPartI_SinteringandCasting 1.md",
+    "2022 + ManufacturingProcessesforPermanentMagnetsPartII_BondingandEmergingMethods.pdf",
+    "2. Weekly Plan/2023-W41.md",
     "3. About the magnet",
     "3. About the magnet/Papers",
     "1. Daily Plan/2023-10-11.md",
@@ -209,7 +214,6 @@
     "1. Daily Plan/2023-10-12.md",
     "Templates/Daily planner.md",
     "Templates/Weekly planner.md",
-    "Abstract for conference.md",
     "4. MnBi/Write an abstract.md",
     "볼밀.md",
     "4. MnBi",
@@ -221,9 +225,6 @@
     "송영운은 신이 맞다..md",
     "오포는 신인가에 대한 고찰.md",
     "Templates/Templates.md",
-    "Templates/context.mdb",
-    "Templates",
-    "Context/spacesLastSync.log",
     "README.md"
   ]
 }

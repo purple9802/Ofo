@@ -36,7 +36,9 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "Ofo": [
-      "Templates"
+      "4. MnBi",
+      "/",
+      "2022 + ManufacturingProcessesforPermanentMagnetsPartI_SinteringandCasting 1"
     ]
   },
   "expandedSpaces": [
@@ -66,7 +68,7 @@
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
-  "inlineContextExpanded": false,
+  "inlineContextExpanded": true,
   "inlineContextSectionsExpanded": true,
   "dataviewInlineContext": false,
   "inlineContextNameLayout": "vertical",
@@ -74,7 +76,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1697179029013,
+  "spacesAutoBackupLast": 1697179552055,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
