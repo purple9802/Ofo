@@ -14,5 +14,4 @@ sticker: lucide//calendar-check
 ## What I done yet
 ```tasks
 not done
-due this week
 ```
