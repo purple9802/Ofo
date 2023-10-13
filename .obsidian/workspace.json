@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily Plan/2023-10-13.md",
+                "file": "1. Daily Plan/2023-10-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily Plan/2023-10-13.md",
+                "file": "1. Daily Plan/2023-10-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily Plan/2023-10-13.md"
+                "file": "1. Daily Plan/2023-10-14.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily Plan/2023-10-13.md",
+                "file": "1. Daily Plan/2023-10-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -197,9 +197,10 @@
   },
   "active": "87df572dfe99153c",
   "lastOpenFiles": [
+    "1. Daily Plan/2023-10-13.md",
+    "1. Daily Plan/2023-10-14.md",
     "1. Daily Plan/2023-10-11.md",
     "1. Daily Plan/2023-10-12.md",
-    "1. Daily Plan/2023-10-13.md",
     "2. Weekly Plan/2023-W41.md",
     "3. About the magnet/Papers/1. Manufacturing process of PM.md",
     "3. About the magnet/Papers/2022 + ManufacturingProcessesforPermanentMagnetsPartI_SinteringandCasting.pdf",
