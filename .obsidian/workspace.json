@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. About the magnet/Papers/Manufacturing process of NdFeB.md",
+                "file": "3. About the magnet/Papers/Manufacturing process of PM.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. About the magnet/Papers/Manufacturing process of NdFeB.md",
+                "file": "3. About the magnet/Papers/Manufacturing process of PM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. About the magnet/Papers/Manufacturing process of NdFeB.md"
+                "file": "3. About the magnet/Papers/Manufacturing process of PM.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. About the magnet/Papers/Manufacturing process of NdFeB.md",
+                "file": "3. About the magnet/Papers/Manufacturing process of PM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
   "active": "87df572dfe99153c",
   "lastOpenFiles": [
     "3. About the magnet/Papers/2022 + ManufacturingProcessesforPermanentMagnetsPartI_SinteringandCasting.pdf",
-    "3. About the magnet/Papers/Manufacturing process of NdFeB.md",
+    "3. About the magnet/Papers/Manufacturing process of PM.md",
     "2022 + ManufacturingProcessesforPermanentMagnetsPartI_SinteringandCasting 1.pdf.md",
     "3. About the magnet/Papers/2022 + ManufacturingProcessesforPermanentMagnetsPartII_BondingandEmergingMethods 1.pdf",
     "Abstract for conference.md",
