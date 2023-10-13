@@ -160,23 +160,6 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "a819074e6d42f3ed",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "1. Daily Plan/2023-10-14.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
           }
         ],
         "currentTab": 3
@@ -195,7 +178,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "87df572dfe99153c",
+  "active": "8e5e75201f2c3f04",
   "lastOpenFiles": [
     "1. Daily Plan/2023-10-13.md",
     "1. Daily Plan/2023-10-14.md",
