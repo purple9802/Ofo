@@ -137,18 +137,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "174ace5a995bf35e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "5. Course work/Photonics/1. Prepare mid-term exam.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "44f5155363efb5ed",
             "type": "leaf",
             "state": {
@@ -184,26 +172,8 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "73c9c626a24b38d5",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "5. Course work/Photonics/1. Prepare mid-term exam.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,7 +189,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "abe4247919f64848",
+  "active": "44f5155363efb5ed",
   "lastOpenFiles": [
     "Pasted image 20231016233356.png",
     "Pasted image 20231016233121.png",
