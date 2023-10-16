@@ -37,26 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thinkin' of difference of align and non-align.md",
+                "file": "1. Daily Plan/2023-10-14.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "97e480c79678f4ad",
+            "id": "80bca213447d46b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily Plan/2023-10-18.md",
+                "file": "5. Course work/Photonics/1. Prepare mid-term exam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abe4247919f64848",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Course work/Photonics/1. Prepare mid-term exam.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily Plan/2023-10-18.md",
+                "file": "5. Course work/Photonics/1. Prepare mid-term exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily Plan/2023-10-18.md"
+                "file": "5. Course work/Photonics/1. Prepare mid-term exam.md"
               }
             }
           },
@@ -171,6 +183,23 @@
             "state": {
               "type": "git-view",
               "state": {}
+            }
+          },
+          {
+            "id": "73c9c626a24b38d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5. Course work/Photonics/1. Prepare mid-term exam.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ],
@@ -190,29 +219,31 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "97e480c79678f4ad",
+  "active": "abe4247919f64848",
   "lastOpenFiles": [
+    "Pasted image 20231016233356.png",
+    "Pasted image 20231016233121.png",
     "5. Course work/Photonics/Pasted image 20231016213438.png",
+    "5. Course work/Photonics/Pasted image 20231016210119.png",
+    "5. Course work/Photonics/1. Prepare mid-term exam.md",
     "5. Course work/Photonics/Pasted image 20231016212249.png",
     "5. Course work/Photonics/Pasted image 20231016212223.png",
     "5. Course work/Photonics/Pasted image 20231016210144.png",
     "5. Course work/Photonics/Pasted image 20231016210131.png",
-    "5. Course work/Photonics/Pasted image 20231016210119.png",
-    "5. Course work/Photonics/1. Prepare mid-term exam.md",
-    "1. Daily Plan/2023-10-17.md",
     "1. Daily Plan/2023-10-18.md",
-    "1. Daily Plan/2023-10-16.md",
     "Lab design.md",
-    "Thinkin' of difference of align and non-align.md",
     "Abstract for conference.md",
+    "Thinkin' of difference of align and non-align.md",
+    "conflict-files-obsidian-git.md",
+    "1. Daily Plan/2023-10-17.md",
+    "1. Daily Plan/2023-10-16.md",
     "1. Daily Plan/2023-10-15.md",
-    "1. Daily Plan/2023-10-14.md",
-    "5. Course work/Photonics/Prepare mid-term exam.md",
     "5. Course work/Photonics/Pasted image 20231014233107.png",
     "5. Course work/Photonics",
-    "5. Course work",
     "1. Daily Plan/2023-10-11.md",
+    "5. Course work",
     "1. Daily Plan/2023-10-13.md",
+    "1. Daily Plan/2023-10-14.md",
     "1. Daily Plan/2023-10-12.md",
     "2. Weekly Plan/2023-W41.md",
     "3. About the magnet/Papers/1. Manufacturing process of PM.md",
