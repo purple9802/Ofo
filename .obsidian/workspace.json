@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Course work/Photonics/Prepare mid-term exam.md",
+                "file": "5. Course work/Photonics/1. Prepare mid-term exam.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Course work/Photonics/Prepare mid-term exam.md",
+                "file": "5. Course work/Photonics/1. Prepare mid-term exam.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Course work/Photonics/Prepare mid-term exam.md",
+                "file": "5. Course work/Photonics/1. Prepare mid-term exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Course work/Photonics/Prepare mid-term exam.md"
+                "file": "5. Course work/Photonics/1. Prepare mid-term exam.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Course work/Photonics/Prepare mid-term exam.md",
+                "file": "5. Course work/Photonics/1. Prepare mid-term exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,6 +221,13 @@
   },
   "active": "abe4247919f64848",
   "lastOpenFiles": [
+    "5. Course work/Photonics/Pasted image 20231016213438.png",
+    "5. Course work/Photonics/Pasted image 20231016210119.png",
+    "5. Course work/Photonics/1. Prepare mid-term exam.md",
+    "5. Course work/Photonics/Pasted image 20231016212249.png",
+    "5. Course work/Photonics/Pasted image 20231016212223.png",
+    "5. Course work/Photonics/Pasted image 20231016210144.png",
+    "5. Course work/Photonics/Pasted image 20231016210131.png",
     "1. Daily Plan/2023-10-18.md",
     "Lab design.md",
     "Abstract for conference.md",
@@ -228,7 +235,6 @@
     "conflict-files-obsidian-git.md",
     "1. Daily Plan/2023-10-17.md",
     "1. Daily Plan/2023-10-16.md",
-    "5. Course work/Photonics/Prepare mid-term exam.md",
     "1. Daily Plan/2023-10-15.md",
     "5. Course work/Photonics/Pasted image 20231014233107.png",
     "5. Course work/Photonics",
@@ -256,7 +262,6 @@
     "Daily Plan/2023-10-11.md",
     "Daily Plan",
     "Daily Plan/Invalid date.md",
-    "송영운은 신이 맞다..md",
-    "오포는 신인가에 대한 고찰.md"
+    "송영운은 신이 맞다..md"
   ]
 }
