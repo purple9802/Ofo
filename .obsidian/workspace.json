@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily Plan/2023-10-16.md",
+                "file": "Thinkin' of difference of align and non-align.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97e480c79678f4ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lab design.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily Plan/2023-10-16.md",
+                "file": "Lab design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily Plan/2023-10-16.md"
+                "file": "Lab design.md"
               }
             }
           },
@@ -178,11 +190,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "642e76786e7f53f7",
+  "active": "97e480c79678f4ad",
   "lastOpenFiles": [
     "Thinkin' of difference of align and non-align.md",
-    "1. Daily Plan/2023-10-15.md",
+    "Lab design.md",
+    "Abstract for conference.md",
     "1. Daily Plan/2023-10-16.md",
+    "1. Daily Plan/2023-10-15.md",
     "1. Daily Plan/2023-10-14.md",
     "5. Course work/Photonics/Prepare mid-term exam.md",
     "5. Course work/Photonics/Pasted image 20231014233107.png",
@@ -197,7 +211,6 @@
     "4. MnBi/4. MnBi.md",
     "2022 + ManufacturingProcessesforPermanentMagnetsPartI_SinteringandCasting 1.pdf.md",
     "3. About the magnet/Papers/2022 + ManufacturingProcessesforPermanentMagnetsPartII_BondingandEmergingMethods 1.pdf",
-    "Abstract for conference.md",
     "2022 + ManufacturingProcessesforPermanentMagnetsPartI_SinteringandCasting 1",
     "2022 + ManufacturingProcessesforPermanentMagnetsPartI_SinteringandCasting 1/2022 + ManufacturingProcessesforPermanentMagnetsPartI_SinteringandCasting 1.md",
     "2022 + ManufacturingProcessesforPermanentMagnetsPartII_BondingandEmergingMethods.pdf",
