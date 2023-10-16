@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab design.md",
+                "file": "1. Daily Plan/2023-10-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lab design.md",
+                "file": "1. Daily Plan/2023-10-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab design.md"
+                "file": "1. Daily Plan/2023-10-18.md"
               }
             }
           },
@@ -174,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -192,10 +192,12 @@
   },
   "active": "97e480c79678f4ad",
   "lastOpenFiles": [
-    "Thinkin' of difference of align and non-align.md",
-    "Lab design.md",
-    "Abstract for conference.md",
+    "1. Daily Plan/2023-10-17.md",
+    "1. Daily Plan/2023-10-18.md",
     "1. Daily Plan/2023-10-16.md",
+    "Lab design.md",
+    "Thinkin' of difference of align and non-align.md",
+    "Abstract for conference.md",
     "1. Daily Plan/2023-10-15.md",
     "1. Daily Plan/2023-10-14.md",
     "5. Course work/Photonics/Prepare mid-term exam.md",
@@ -226,7 +228,6 @@
     "Daily Plan/Invalid date.md",
     "송영운은 신이 맞다..md",
     "오포는 신인가에 대한 고찰.md",
-    "Templates/Templates.md",
-    "README.md"
+    "Templates/Templates.md"
   ]
 }
