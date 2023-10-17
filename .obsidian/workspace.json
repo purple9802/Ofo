@@ -122,7 +122,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -221,6 +222,7 @@
   },
   "active": "abe4247919f64848",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "5. Course work/Photonics/Images/Pasted image 20231017025147.png",
     "5. Course work/Photonics/1. Prepare mid-term exam.md",
     "5. Course work/Photonics/Images/Pasted image 20231017025811.png",
@@ -238,7 +240,6 @@
     "Lab design.md",
     "Abstract for conference.md",
     "Thinkin' of difference of align and non-align.md",
-    "conflict-files-obsidian-git.md",
     "1. Daily Plan/2023-10-17.md",
     "1. Daily Plan/2023-10-16.md",
     "1. Daily Plan/2023-10-15.md",
