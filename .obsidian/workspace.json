@@ -59,9 +59,11 @@
             "id": "0f57c9863a81aa03",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "1. Daily Plan/2023-10-18.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -220,6 +222,7 @@
   },
   "active": "0f57c9863a81aa03",
   "lastOpenFiles": [
+    "1. Daily Plan/1. Daily Plan.md",
     "1. Daily Plan/2023-10-17.md",
     "1. Daily Plan/2023-10-18.md",
     "conflict-files-obsidian-git.md",
@@ -264,7 +267,6 @@
     "볼밀.md",
     "4. MnBi",
     "Daily Plan/2023-10-11.md",
-    "Daily Plan/Invalid date.md",
-    "송영운은 신이 맞다..md"
+    "Daily Plan/Invalid date.md"
   ]
 }
