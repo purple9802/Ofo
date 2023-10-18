@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0f57c9863a81aa03",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +120,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -172,6 +183,23 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "3c819e6aa3363d73",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Daily Plan/2023-10-18.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -190,7 +218,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "97e480c79678f4ad",
+  "active": "0f57c9863a81aa03",
   "lastOpenFiles": [
     "1. Daily Plan/2023-10-17.md",
     "1. Daily Plan/2023-10-18.md",
