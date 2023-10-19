@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily Plan/2023-10-18.md",
+                "file": "1. Daily Plan/2023-10-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily Plan/2023-10-18.md",
+                "file": "1. Daily Plan/2023-10-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily Plan/2023-10-18.md"
+                "file": "1. Daily Plan/2023-10-19.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily Plan/2023-10-18.md",
+                "file": "1. Daily Plan/2023-10-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,9 +222,11 @@
   },
   "active": "0f57c9863a81aa03",
   "lastOpenFiles": [
+    "2. Weekly Plan/2023-W41.md",
+    "1. Daily Plan/2023-10-19.md",
+    "1. Daily Plan/2023-10-18.md",
     "1. Daily Plan/1. Daily Plan.md",
     "1. Daily Plan/2023-10-17.md",
-    "1. Daily Plan/2023-10-18.md",
     "conflict-files-obsidian-git.md",
     "5. Course work/Photonics/Images/Pasted image 20231017025811.png",
     "5. Course work/Photonics/Images/Pasted image 20231017025804.png",
@@ -250,7 +252,6 @@
     "1. Daily Plan/2023-10-11.md",
     "1. Daily Plan/2023-10-13.md",
     "1. Daily Plan/2023-10-12.md",
-    "2. Weekly Plan/2023-W41.md",
     "3. About the magnet/Papers/1. Manufacturing process of PM.md",
     "3. About the magnet/Papers/2022 + ManufacturingProcessesforPermanentMagnetsPartI_SinteringandCasting.pdf",
     "4. MnBi/4. MnBi.md",
@@ -266,7 +267,6 @@
     "4. MnBi/Write an abstract.md",
     "볼밀.md",
     "4. MnBi",
-    "Daily Plan/2023-10-11.md",
-    "Daily Plan/Invalid date.md"
+    "Daily Plan/2023-10-11.md"
   ]
 }

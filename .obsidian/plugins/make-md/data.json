@@ -39,7 +39,8 @@
       "4. MnBi",
       "/",
       "2022 + ManufacturingProcessesforPermanentMagnetsPartI_SinteringandCasting 1",
-      "1. Daily Plan"
+      "1. Daily Plan",
+      "2. Weekly Plan"
     ]
   },
   "expandedSpaces": [
@@ -77,7 +78,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1697620879554,
+  "spacesAutoBackupLast": 1697674978538,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
