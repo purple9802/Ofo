@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily Plan/Oct. 2023/2023-10-21.md",
+                "file": "4. MnBi/Write an abstract.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily Plan/Oct. 2023/2023-10-21.md"
+                "file": "4. MnBi/Write an abstract.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily Plan/Oct. 2023/2023-10-21.md",
+                "file": "4. MnBi/Write an abstract.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,13 +209,13 @@
   },
   "active": "ed6c048838e59f20",
   "lastOpenFiles": [
-    "1. Daily Plan/Oct. 2023/2023-10-20.md",
+    "4. MnBi/Files/~$23_추계자기학회_Abstract_4th_modified.doc",
     "1. Daily Plan/Oct. 2023/2023-10-21.md",
+    "5. Course work/Photonics/1. Prepare mid-term exam.md",
+    "1. Daily Plan/Oct. 2023/2023-10-20.md",
     "1. Daily Plan/Oct. 2023/2023-10-19.md",
     "4. MnBi/Write an abstract.md",
-    "4. MnBi/Files/~$23_추계자기학회_Abstract_4th_modified.doc",
     "3. About the magnet/Papers/1. Manufacturing process of PM.md",
-    "5. Course work/Photonics/1. Prepare mid-term exam.md",
     "4. MnBi/Files/Files.md",
     "4. MnBi/Files",
     "4. MnBi/4. MnBi.md",
@@ -253,7 +253,6 @@
     "1. Daily Plan/Oct. 2023/2023-10-13.md",
     "3. About the magnet/Papers/2022 + ManufacturingProcessesforPermanentMagnetsPartI_SinteringandCasting.pdf",
     "2022 + ManufacturingProcessesforPermanentMagnetsPartI_SinteringandCasting 1.pdf.md",
-    "3. About the magnet/Papers/2022 + ManufacturingProcessesforPermanentMagnetsPartII_BondingandEmergingMethods 1.pdf",
-    "2022 + ManufacturingProcessesforPermanentMagnetsPartI_SinteringandCasting 1/2022 + ManufacturingProcessesforPermanentMagnetsPartI_SinteringandCasting 1.md"
+    "3. About the magnet/Papers/2022 + ManufacturingProcessesforPermanentMagnetsPartII_BondingandEmergingMethods 1.pdf"
   ]
 }
