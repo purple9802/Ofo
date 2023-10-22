@@ -20,55 +20,19 @@
             }
           },
           {
-            "id": "59073c29d85efe28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Weekly Plan/2023-W41.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "97e480c79678f4ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily Plan/Oct. 2023/2023-10-18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f57c9863a81aa03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Daily Plan/Oct. 2023/2023-10-11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed6c048838e59f20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Daily Plan/Oct. 2023/2023-10-23.md",
+                "file": "1. Daily Plan/Oct. 2023/2023-10-13.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily Plan/Oct. 2023/2023-10-23.md"
+                "file": "1. Daily Plan/Oct. 2023/2023-10-13.md"
               }
             }
           },
@@ -179,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily Plan/Oct. 2023/2023-10-23.md",
+                "file": "1. Daily Plan/Oct. 2023/2023-10-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,13 +171,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ed6c048838e59f20",
+  "active": "97e480c79678f4ad",
   "lastOpenFiles": [
-    "1. Daily Plan/Oct. 2023/2023-10-21.md",
+    "1. Daily Plan/Oct. 2023/2023-10-11.md",
+    "2. Weekly Plan.md",
+    "2. Weekly Plan",
+    "2. Weekly Plan/2023-W42.md",
+    "2. Weekly Plan/2023-W43.md",
     "1. Daily Plan/Oct. 2023/2023-10-23.md",
+    "1. Daily Plan/Oct. 2023/2023-10-21.md",
     "1. Daily Plan/Oct. 2023/2023-10-20.md",
     "1. Daily Plan/Oct. 2023/2023-10-19.md",
-    "2. Weekly Plan/2023-W42.md",
     "무제 폴더",
     "4. MnBi/Write an abstract.md",
     "4. MnBi/Files/~$23_추계자기학회_Abstract_4th_modified.doc",
@@ -228,11 +196,9 @@
     "Abstract for conference.md",
     "Lab design.md",
     "Thinkin' of difference of align and non-align.md",
-    "1. Daily Plan/Oct. 2023/2023-10-11.md",
     "1. Daily Plan/1. Daily Plan.md",
     "1. Daily Plan/Oct. 2023/2023-10-12.md",
     "1. Daily Plan/Oct. 2023",
-    "2. Weekly Plan/2023-W41.md",
     "1. Daily Plan/Oct. 2023/2023-10-18.md",
     "1. Daily Plan/Oct. 2023/2023-10-17.md",
     "conflict-files-obsidian-git.md",
@@ -250,10 +216,7 @@
     "1. Daily Plan/Oct. 2023/2023-10-16.md",
     "1. Daily Plan/Oct. 2023/2023-10-15.md",
     "1. Daily Plan/Oct. 2023/2023-10-14.md",
-    "5. Course work/Photonics/Prepare mid-term exam.md",
     "5. Course work/Photonics",
-    "5. Course work",
-    "1. Daily Plan/Oct. 2023/2023-10-13.md",
-    "3. About the magnet/Papers/2022 + ManufacturingProcessesforPermanentMagnetsPartI_SinteringandCasting.pdf"
+    "5. Course work"
   ]
 }
