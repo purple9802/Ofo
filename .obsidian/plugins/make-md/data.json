@@ -38,7 +38,14 @@
     "Ofo": [
       "4. MnBi",
       "/",
-      "2022 + ManufacturingProcessesforPermanentMagnetsPartI_SinteringandCasting 1"
+      "2022 + ManufacturingProcessesforPermanentMagnetsPartI_SinteringandCasting 1",
+      "1. Daily Plan",
+      "2. Weekly Plan",
+      "1. Daily Plan",
+      "Templates",
+      "4. MnBi",
+      "5. Course work",
+      "5. Course work/Photonics"
     ]
   },
   "expandedSpaces": [
@@ -68,7 +75,7 @@
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
-  "inlineContextExpanded": false,
+  "inlineContextExpanded": true,
   "inlineContextSectionsExpanded": true,
   "dataviewInlineContext": false,
   "inlineContextNameLayout": "vertical",
@@ -76,7 +83,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1698237010893,
+  "spacesAutoBackupLast": 1698309904464,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

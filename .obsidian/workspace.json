@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80bca213447d46b6",
+            "id": "97e480c79678f4ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Course work/Photonics/1. Prepare mid-term exam.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abe4247919f64848",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Course work/Photonics/1. Prepare mid-term exam.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d33330e6f3b4b29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "For dielectiric ~ homework.md",
+                "file": "1. Daily Plan/2023-10-26.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -130,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "For dielectiric ~ homework.md"
+                "file": "1. Daily Plan/2023-10-26.md"
               }
             }
           },
@@ -151,24 +125,12 @@
             }
           },
           {
-            "id": "bb0fabfc8163063e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "For dielectiric ~ homework.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "fa3be43063bf4902",
+            "id": "3c819e6aa3363d73",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "For dielectiric ~ homework.md",
+                "file": "1. Daily Plan/2023-10-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,53 +158,53 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9d33330e6f3b4b29",
+  "active": "97e480c79678f4ad",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "1. Daily Plan/Oct. 2023/2023-10-25.md",
+    "1. Daily Plan/2023-10-26.md",
     "For dielectiric ~ homework.md",
     "1. Daily Plan/Oct. 2023/2023-10-27.md",
-    "1. Daily Plan/Oct. 2023/2023-10-25.md",
     "1. Daily Plan/Oct. 2023/2023-10-24.md",
+    "4. MnBi/Write an abstract.md",
+    "4. MnBi/Files/~$23_추계자기학회_Abstract_4th_modified.doc",
+    "1. Daily Plan/Oct. 2023/2023-10-21.md",
     "1. Daily Plan/Oct. 2023/2023-10-23.md",
     "5. Course work/Photonics/1. Prepare mid-term exam.md",
-    "Templates/Templates.md",
-    "4. MnBi/Files/~$23_추계자기학회_Abstract_4th_modified.doc",
-    "4. MnBi/Files/2023_추계자기학회_Abstract_4th_modified.doc",
-    "4. MnBi/Files",
+    "1. Daily Plan/Oct. 2023/2023-10-13.md",
+    "1. Daily Plan/Oct. 2023/2023-10-11.md",
+    "2. Weekly Plan.md",
+    "2. Weekly Plan",
     "2. Weekly Plan/2023-W42.md",
-    "1. Daily Plan/Oct. 2023/2023-10-21.md",
+    "2. Weekly Plan/2023-W43.md",
     "1. Daily Plan/Oct. 2023/2023-10-20.md",
     "1. Daily Plan/Oct. 2023/2023-10-19.md",
-    "1. Daily Plan/Oct. 2023/2023-10-18.md",
-    "1. Daily Plan/Oct. 2023/2023-10-17.md",
-    "1. Daily Plan/Oct. 2023/2023-10-16.md",
-    "1. Daily Plan/Oct. 2023/2023-10-15.md",
-    "1. Daily Plan/Oct. 2023/2023-10-14.md",
-    "1. Daily Plan/Oct. 2023/2023-10-13.md",
+    "무제 폴더",
+    "3. About the magnet/Papers/1. Manufacturing process of PM.md",
+    "4. MnBi/Files/Files.md",
+    "4. MnBi/Files",
+    "4. MnBi/4. MnBi.md",
+    "Templates/Templates.md",
+    "~$23_추계자기학회_Abstract_4th_modified.doc",
+    "4. MnBi/Files/2023_추계자기학회_Abstract_4th_modified.doc",
+    "Abstract for conference.md",
+    "Lab design.md",
+    "Thinkin' of difference of align and non-align.md",
+    "1. Daily Plan/1. Daily Plan.md",
     "1. Daily Plan/Oct. 2023/2023-10-12.md",
-    "1. Daily Plan/Oct. 2023/2023-10-11.md",
     "1. Daily Plan/Oct. 2023",
-    "5. Course work/Photonics/Images/Pasted image 20231017025147.png",
+    "1. Daily Plan/Oct. 2023/2023-10-18.md",
     "5. Course work/Photonics/Images/Pasted image 20231017025811.png",
     "5. Course work/Photonics/Images/Pasted image 20231017025804.png",
     "5. Course work/Photonics/Images/Pasted image 20231017025433.png",
     "5. Course work/Photonics/Images/Pasted image 20231017025318.png",
+    "5. Course work/Photonics/Images/Pasted image 20231017025147.png",
     "5. Course work/Photonics/Images/Pasted image 20231017010809.png",
-    "5. Course work/Photonics/Images/Pasted image 20231014233107.png",
-    "5. Course work/Photonics/Images",
-    "1. Daily Plan/2023-10-11.md",
     "5. Course work/Photonics/Images/Pasted image 20231016233356.png",
     "5. Course work/Photonics/Images/Pasted image 20231016233121.png",
     "5. Course work/Photonics/Images/Pasted image 20231016213438.png",
-    "1. Daily Plan/2023-10-18.md",
-    "Lab design.md",
-    "Abstract for conference.md",
-    "Thinkin' of difference of align and non-align.md",
-    "1. Daily Plan/2023-10-17.md",
+    "5. Course work/Photonics/Images/Pasted image 20231016212249.png",
+    "5. Course work/Photonics/Images",
     "5. Course work/Photonics",
-    "5. Course work",
-    "3. About the magnet/Papers/2022 + ManufacturingProcessesforPermanentMagnetsPartI_SinteringandCasting.pdf",
-    "3. About the magnet/Papers/2022 + ManufacturingProcessesforPermanentMagnetsPartII_BondingandEmergingMethods 1.pdf",
-    "2022 + ManufacturingProcessesforPermanentMagnetsPartI_SinteringandCasting 1"
+    "5. Course work"
   ]
 }
