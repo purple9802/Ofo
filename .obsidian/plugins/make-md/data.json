@@ -36,23 +36,18 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "Ofo": [
-      "4. MnBi",
       "/",
       "2022 + ManufacturingProcessesforPermanentMagnetsPartI_SinteringandCasting 1",
-      "1. Daily Plan",
       "2. Weekly Plan",
-      "1. Daily Plan",
-      "Templates",
-      "4. MnBi",
-      "5. Course work",
-      "5. Course work/Photonics"
+      "5. Course work/Photonics",
+      "1. Daily Plan"
     ]
   },
   "expandedSpaces": [
     "/",
     null,
-    "Ofo",
-    null
+    null,
+    "Ofo"
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
@@ -83,7 +78,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1698735320648,
+  "spacesAutoBackupLast": 1698743103507,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
