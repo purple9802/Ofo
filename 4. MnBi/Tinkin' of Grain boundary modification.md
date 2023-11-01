@@ -1,3 +1,6 @@
+---
+sticker: lucide//lightbulb
+---
 
 ---
 ## Total method
