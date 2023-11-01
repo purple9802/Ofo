@@ -40,6 +40,7 @@
       "2022 + ManufacturingProcessesforPermanentMagnetsPartI_SinteringandCasting 1",
       "2. Weekly Plan",
       "5. Course work/Photonics",
+      "1. Daily Plan",
       "1. Daily Plan"
     ]
   },
@@ -78,7 +79,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1698799518410,
+  "spacesAutoBackupLast": 1698804991299,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
