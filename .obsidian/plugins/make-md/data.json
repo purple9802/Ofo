@@ -43,7 +43,9 @@
       "1. Daily Plan",
       "1. Daily Plan",
       "4. MnBi",
-      "4. MnBi"
+      "4. MnBi",
+      "3. About the magnet",
+      "1. Daily Plan/Nov. 2023"
     ]
   },
   "expandedSpaces": [
@@ -81,7 +83,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1698897807734,
+  "spacesAutoBackupLast": 1698902599410,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
