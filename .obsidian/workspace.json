@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily Plan/Nov. 2023/2023-11-03.md",
+                "file": "1. Daily Plan/Nov. 2023/2023-11-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily Plan/Nov. 2023/2023-11-03.md"
+                "file": "1. Daily Plan/Nov. 2023/2023-11-04.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily Plan/Nov. 2023/2023-11-03.md",
+                "file": "1. Daily Plan/Nov. 2023/2023-11-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily Plan/Nov. 2023/2023-11-03.md",
+                "file": "1. Daily Plan/Nov. 2023/2023-11-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,10 +171,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "97e480c79678f4ad",
+  "active": "1604f1783b827360",
   "lastOpenFiles": [
-    "3. About the magnet/Thinkin' bout factor of coercivity.md",
     "1. Daily Plan/Nov. 2023/2023-11-03.md",
+    "1. Daily Plan/Nov. 2023/2023-11-04.md",
+    "3. About the magnet/Thinkin' bout factor of coercivity.md",
     "1. Daily Plan/Nov. 2023/2023-11-02.md",
     "4. MnBi/Tinkin' of Grain boundary modification.md",
     "1. Daily Plan/Nov. 2023/2023-11-01.md",
@@ -201,7 +202,6 @@
     "1. Daily Plan/Oct. 2023/2023-10-21.md",
     "1. Daily Plan/Oct. 2023/2023-10-23.md",
     "5. Course work/Photonics/1. Prepare mid-term exam.md",
-    "1. Daily Plan/Oct. 2023/2023-10-13.md",
     "2. Weekly Plan",
     "무제 폴더",
     "4. MnBi/Files",
