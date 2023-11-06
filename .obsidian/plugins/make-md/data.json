@@ -50,8 +50,8 @@
   "expandedSpaces": [
     "/",
     null,
-    null,
-    "Ofo"
+    "Ofo",
+    null
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
@@ -82,7 +82,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1699233422890,
+  "spacesAutoBackupLast": 1699266978838,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
