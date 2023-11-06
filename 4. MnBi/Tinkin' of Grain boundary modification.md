@@ -24,6 +24,6 @@ sticker: lucide//lightbulb
 
 1. Bi - melting point 271.4 °C
 2. Sn - melting point 231.9 °C
-3. Bi - Sn alloy It called fusible alloy (Low melting point alloy, for the soldering right that)
+3. Bi - Sn alloy It called fusible alloy (Low melting point alloy, for the soldering like that)
 	1. Bi<sub>58</sub>Sn<sub>42</sub> - melting point 139 °C
 	2. Bi<sub>57</sub>Sn<sub>43</sub> - melting point 138 °C
