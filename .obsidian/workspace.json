@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. MnBi/For solid state sintering.md",
+                "file": "1. Daily Plan/Nov. 2023/2023-11-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. MnBi/For solid state sintering.md"
+                "file": "1. Daily Plan/Nov. 2023/2023-11-15.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. MnBi/For solid state sintering.md",
+                "file": "1. Daily Plan/Nov. 2023/2023-11-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. MnBi/For solid state sintering.md",
+                "file": "1. Daily Plan/Nov. 2023/2023-11-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,11 +171,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1604f1783b827360",
+  "active": "97e480c79678f4ad",
   "lastOpenFiles": [
+    "4. MnBi/For solid state sintering.md",
+    "1. Daily Plan/Nov. 2023/2023-11-15.md",
     "4. MnBi/Files/Pasted image 20231113163922.png",
     "4. MnBi/The idea.md",
-    "4. MnBi/For solid state sintering.md",
     "3. About the magnet/Thinkin' bout factor of coercivity.md",
     "무제 파일 1.md",
     "4. MnBi/The target of 2nd year with Hyudai.md",
@@ -217,7 +218,6 @@
     "5. Course work/Photonics/Images/Pasted image 20231017010809.png",
     "5. Course work/Photonics/Images/Pasted image 20231016233356.png",
     "5. Course work/Photonics/Images/Pasted image 20231016233121.png",
-    "5. Course work/Photonics/Images/Pasted image 20231016213438.png",
-    "5. Course work/Photonics/Images/Pasted image 20231016212249.png"
+    "5. Course work/Photonics/Images/Pasted image 20231016213438.png"
   ]
 }
