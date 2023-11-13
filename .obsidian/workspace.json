@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. About the magnet/The target of 2nd year with Hyudai.md",
+                "file": "4. MnBi/For solid state sintering.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. About the magnet/The target of 2nd year with Hyudai.md"
+                "file": "4. MnBi/For solid state sintering.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. About the magnet/The target of 2nd year with Hyudai.md",
+                "file": "4. MnBi/For solid state sintering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. About the magnet/The target of 2nd year with Hyudai.md",
+                "file": "4. MnBi/For solid state sintering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +173,14 @@
   },
   "active": "1604f1783b827360",
   "lastOpenFiles": [
+    "4. MnBi/Files/Pasted image 20231113163922.png",
+    "4. MnBi/The idea.md",
+    "4. MnBi/For solid state sintering.md",
+    "3. About the magnet/Thinkin' bout factor of coercivity.md",
+    "무제 파일 1.md",
+    "4. MnBi/The target of 2nd year with Hyudai.md",
     "context.mdb",
     "4. MnBi/Tinkin' of Grain boundary modification.md",
-    "3. About the magnet/The target of 2nd year with Hyudai.md",
     "1. Daily Plan/Nov. 2023/2023-11-13.md",
     "1. Daily Plan/Nov. 2023/2023-11-11.md",
     "4. MnBi/Write an abstract.md",
@@ -187,7 +192,6 @@
     "1. Daily Plan/Nov. 2023/2023-11-06.md",
     "1. Daily Plan/Nov. 2023/2023-11-04.md",
     "1. Daily Plan/Nov. 2023/2023-11-03.md",
-    "3. About the magnet/Thinkin' bout factor of coercivity.md",
     "1. Daily Plan/Nov. 2023/2023-11-01.md",
     "1. Daily Plan/2023-11-01.md",
     "4. MnBi/4. MnBi.md",
@@ -199,9 +203,6 @@
     "1. Daily Plan/Nov. 2023",
     "1. Daily Plan/무제 파일.md",
     "1. Daily Plan/Oct. 2023/Oct. 2023.md",
-    "1. Daily Plan/Oct. 2023/2023-10-30.md",
-    "1. Daily Plan/Oct. 2023/2023-10-26.md",
-    "1. Daily Plan/Oct. 2023/2023-10-27.md",
     "2. Weekly Plan",
     "무제 폴더",
     "4. MnBi/Files",
@@ -217,7 +218,6 @@
     "5. Course work/Photonics/Images/Pasted image 20231016233356.png",
     "5. Course work/Photonics/Images/Pasted image 20231016233121.png",
     "5. Course work/Photonics/Images/Pasted image 20231016213438.png",
-    "5. Course work/Photonics/Images/Pasted image 20231016212249.png",
-    "5. Course work/Photonics/Images"
+    "5. Course work/Photonics/Images/Pasted image 20231016212249.png"
   ]
 }
