@@ -36,16 +36,15 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "Ofo": [
-      "/",
       "2022 + ManufacturingProcessesforPermanentMagnetsPartI_SinteringandCasting 1",
       "2. Weekly Plan",
       "5. Course work/Photonics",
       "1. Daily Plan",
       "1. Daily Plan",
-      "4. MnBi",
-      "4. MnBi",
       "3. About the magnet",
-      "1. Daily Plan/Nov. 2023"
+      "1. Daily Plan/Nov. 2023",
+      "/",
+      "4. MnBi"
     ]
   },
   "expandedSpaces": [
@@ -83,7 +82,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1699864494586,
+  "spacesAutoBackupLast": 1699950253598,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
