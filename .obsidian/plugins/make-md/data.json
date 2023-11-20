@@ -41,7 +41,8 @@
       "5. Course work/Photonics",
       "1. Daily Plan/Nov. 2023",
       "/",
-      "4. MnBi"
+      "4. MnBi",
+      "Templates"
     ]
   },
   "expandedSpaces": [
@@ -79,7 +80,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1700443357615,
+  "spacesAutoBackupLast": 1700443418873,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
