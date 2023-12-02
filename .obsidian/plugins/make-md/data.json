@@ -42,7 +42,8 @@
       "/",
       "4. MnBi",
       "Templates",
-      "1. Daily Plan"
+      "1. Daily Plan",
+      "1. Daily Plan/Dec. 2023"
     ]
   },
   "expandedSpaces": [
@@ -80,7 +81,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1701396201680,
+  "spacesAutoBackupLast": 1701492174085,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
