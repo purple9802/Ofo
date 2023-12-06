@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily Plan/2023-12-06.md",
+                "file": "1. Daily Plan/Dec. 2023/2023-12-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily Plan/2023-12-06.md"
+                "file": "1. Daily Plan/Dec. 2023/2023-12-06.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily Plan/2023-12-06.md",
+                "file": "1. Daily Plan/Dec. 2023/2023-12-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily Plan/2023-12-06.md",
+                "file": "1. Daily Plan/Dec. 2023/2023-12-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,10 +196,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7db6f16ddf505d8b",
+  "active": "1604f1783b827360",
   "lastOpenFiles": [
     "1. Daily Plan/Dec. 2023/2023-12-01.md",
-    "1. Daily Plan/2023-12-06.md",
+    "1. Daily Plan/Dec. 2023/2023-12-06.md",
     "1. Daily Plan/Dec. 2023/2023-12-04.md",
     "1. Daily Plan/Nov. 2023/2023-11-15.md",
     "1. Daily Plan/Dec. 2023/Dec. 2023.md",
