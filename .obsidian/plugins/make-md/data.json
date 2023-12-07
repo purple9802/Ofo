@@ -40,7 +40,6 @@
       "2. Weekly Plan",
       "5. Course work/Photonics",
       "/",
-      "4. MnBi",
       "Templates",
       "1. Daily Plan"
     ]
@@ -80,7 +79,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1701830453429,
+  "spacesAutoBackupLast": 1701944203095,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
