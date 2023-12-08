@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily Plan/2023-12-08.md",
+                "file": "1. Daily Plan/2023-12-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily Plan/2023-12-08.md"
+                "file": "1. Daily Plan/2023-12-11.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily Plan/2023-12-08.md",
+                "file": "1. Daily Plan/2023-12-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily Plan/2023-12-08.md",
+                "file": "1. Daily Plan/2023-12-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,8 +198,9 @@
   },
   "active": "7db6f16ddf505d8b",
   "lastOpenFiles": [
-    "1. Daily Plan/Dec. 2023/2023-12-06.md",
     "1. Daily Plan/2023-12-08.md",
+    "1. Daily Plan/2023-12-11.md",
+    "1. Daily Plan/Dec. 2023/2023-12-06.md",
     "1. Daily Plan/Dec. 2023/2023-12-01.md",
     "1. Daily Plan/Dec. 2023/2023-12-04.md",
     "1. Daily Plan/Nov. 2023/2023-11-15.md",
@@ -229,7 +230,6 @@
     "무제 파일 1.md",
     "context.mdb",
     "1. Daily Plan/Nov. 2023/2023-11-13.md",
-    "1. Daily Plan/Nov. 2023/2023-11-11.md",
     ".md",
     "1. Daily Plan/Nov. 2023",
     "2. Weekly Plan",
