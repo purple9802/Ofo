@@ -40,8 +40,8 @@
       "2. Weekly Plan",
       "5. Course work/Photonics",
       "/",
-      "Templates",
-      "1. Daily Plan"
+      "1. Daily Plan",
+      "1. Daily Plan/Dec. 2023"
     ]
   },
   "expandedSpaces": [
@@ -79,7 +79,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1702027323855,
+  "spacesAutoBackupLast": 1702285459342,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
