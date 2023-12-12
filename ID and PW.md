@@ -2,7 +2,6 @@
 sticker: lucide//key
 ---
 Zhou's 
-
 ID: zhouth
 PW: 1680301abc@
 
@@ -10,7 +9,7 @@ PNU measurement:
 ID: cjchoi
 PW: Cjchoi1396
 
-昌原大measurement: 
+CWNU measurement: 
 ID: cjchoi123 
 PW: ccj13961396
 
@@ -26,6 +25,6 @@ Choi's JAC
 ID: [cjchoi@kims.re.kr](mailto:cjchoi@kims.re.kr) 
 PW: cjchoi9455
 
-material letters
+Material letters
 ID: [cjchoi@kims.re.kr](mailto:cjchoi@kims.re.kr)
 PW: Cjchoi1396*
