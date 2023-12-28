@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b31bd45515e9c7fd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,7 +182,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1604f1783b827360",
+  "active": "b31bd45515e9c7fd",
   "lastOpenFiles": [
     "1. Daily Plan/Dec. 2023/2023-12-22.md",
     "1. Daily Plan/Dec. 2023/2023-12-28.md",
