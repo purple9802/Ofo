@@ -8,73 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7db6f16ddf505d8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Daily Plan/2024/Jan. 2024/2024-01-02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43fff105dfcc2041",
-            "type": "leaf",
-            "state": {
-              "type": "make-folder-view",
-              "state": {
-                "contextPath": "1. Daily Plan/Dec. 2023"
-              }
-            }
-          },
-          {
-            "id": "32b9a24d2c0c16e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Daily Plan/2023/Dec. 2023/2023-12-28.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c35675197718a0e1",
-            "type": "leaf",
-            "state": {
-              "type": "make-folder-view",
-              "state": {
-                "contextPath": "1. Daily Plan/Dec. 2023"
-              }
-            }
-          },
-          {
             "id": "18040ea1248f436a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily Plan/2024/Jan. 2024/2024-01-03.md",
+                "file": "1. Daily Plan/2024/Jan. 2024/2024-01-04.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "b31bd45515e9c7fd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily Plan/2024/Jan. 2024/2024-01-03.md"
+                "file": "1. Daily Plan/2024/Jan. 2024/2024-01-04.md"
               }
             }
           },
@@ -186,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily Plan/2024/Jan. 2024/2024-01-03.md",
+                "file": "1. Daily Plan/2024/Jan. 2024/2024-01-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily Plan/2024/Jan. 2024/2024-01-03.md",
+                "file": "1. Daily Plan/2024/Jan. 2024/2024-01-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,8 +173,9 @@
   },
   "active": "1604f1783b827360",
   "lastOpenFiles": [
-    "1. Daily Plan/2024/Jan. 2024/2024-01-02.md",
     "1. Daily Plan/2024/Jan. 2024/2024-01-03.md",
+    "1. Daily Plan/2024/Jan. 2024/2024-01-04.md",
+    "1. Daily Plan/2024/Jan. 2024/2024-01-02.md",
     "1. Daily Plan/2024/Jan. 2024/Jan. 2024.md",
     "1. Daily Plan/2024/Jan. 2024",
     "1. Daily Plan/2024/2024.md",
@@ -256,7 +202,6 @@
     "1. Daily Plan/2023/Dec. 2023/2023-12-01.md",
     "1. Daily Plan/2023/Dec. 2023/2023-12-04.md",
     "1. Daily Plan/2023/Nov. 2023/2023-11-15.md",
-    "1. Daily Plan/2023/Dec. 2023/Dec. 2023.md",
     "1. Daily Plan/2023/Dec. 2023",
     "4. MnBi/Files/~$연구개발계획서(2차년도) - 2023-09-18.pptx",
     "4. MnBi/Files/~$23_추계자기학회_Abstract_4th_modified.doc",
