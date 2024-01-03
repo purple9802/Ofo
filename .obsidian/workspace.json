@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily Plan/2024/Jan. 2024/2024-01-02.md",
+                "file": "1. Daily Plan/2024/Jan. 2024/2024-01-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily Plan/2024/Jan. 2024/2024-01-02.md"
+                "file": "1. Daily Plan/2024/Jan. 2024/2024-01-03.md"
               }
             }
           },
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily Plan/2024/Jan. 2024/2024-01-02.md",
+                "file": "1. Daily Plan/2024/Jan. 2024/2024-01-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily Plan/2024/Jan. 2024/2024-01-02.md",
+                "file": "1. Daily Plan/2024/Jan. 2024/2024-01-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,13 +226,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "18040ea1248f436a",
+  "active": "1604f1783b827360",
   "lastOpenFiles": [
+    "1. Daily Plan/2024/Jan. 2024/2024-01-02.md",
+    "1. Daily Plan/2024/Jan. 2024/2024-01-03.md",
     "1. Daily Plan/2024/Jan. 2024/Jan. 2024.md",
     "1. Daily Plan/2024/Jan. 2024",
     "1. Daily Plan/2024/2024.md",
     "1. Daily Plan/2023/Dec. 2023/2023-12-28.md",
-    "1. Daily Plan/2024/Jan. 2024/2024-01-02.md",
     "1. Daily Plan/2024",
     "1. Daily Plan/2023",
     "1. Daily Plan/무제 파일.md",
@@ -257,7 +258,6 @@
     "1. Daily Plan/2023/Nov. 2023/2023-11-15.md",
     "1. Daily Plan/2023/Dec. 2023/Dec. 2023.md",
     "1. Daily Plan/2023/Dec. 2023",
-    "무제 파일.md",
     "4. MnBi/Files/~$연구개발계획서(2차년도) - 2023-09-18.pptx",
     "4. MnBi/Files/~$23_추계자기학회_Abstract_4th_modified.doc",
     "4. MnBi/Files/연구개발계획서(2차년도) - 2023-09-18.pptx",
