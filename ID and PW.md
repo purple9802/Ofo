@@ -32,3 +32,7 @@ PW: Cjchoi1396*
 NRF
 ID: ccj1396
 PW: ccj94559455*
+
+에기평/지니
+ID: ccj1396
+PW: ccj55495549*
