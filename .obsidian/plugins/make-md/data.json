@@ -41,8 +41,8 @@
       "5. Course work/Photonics",
       "/",
       "1. Daily Plan",
-      "1. Daily Plan/2024",
-      "1. Daily Plan/2024/Jan. 2024"
+      "1. Daily Plan/2024/Jan. 2024",
+      "1. Daily Plan/2024"
     ]
   },
   "expandedSpaces": [
@@ -80,7 +80,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1705551224515,
+  "spacesAutoBackupLast": 1705895893657,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
