@@ -39,12 +39,13 @@
       "2022 + ManufacturingProcessesforPermanentMagnetsPartI_SinteringandCasting 1",
       "2. Weekly Plan",
       "5. Course work/Photonics",
-      "/",
       "1. Daily Plan",
       "1. Daily Plan/2024",
       "1. Daily Plan/2024/Feb. 2024",
       "1. Daily Plan/2024/Feb. 2024",
-      "4. MnBi"
+      "/",
+      "4. MnBi",
+      "4. MnBi/Files"
     ]
   },
   "expandedSpaces": [
@@ -82,7 +83,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1708330459066,
+  "spacesAutoBackupLast": 1708583137570,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
