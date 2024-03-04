@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily Plan/2024/Mar. 2024/2024-03-04.md",
+                "file": "1. Daily Plan/2024/Mar. 2024/2024-03-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily Plan/2024/Mar. 2024/2024-03-04.md"
+                "file": "1. Daily Plan/2024/Mar. 2024/2024-03-06.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily Plan/2024/Mar. 2024/2024-03-04.md",
+                "file": "1. Daily Plan/2024/Mar. 2024/2024-03-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily Plan/2024/Mar. 2024/2024-03-04.md",
+                "file": "1. Daily Plan/2024/Mar. 2024/2024-03-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,11 +171,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1604f1783b827360",
+  "active": "18040ea1248f436a",
   "lastOpenFiles": [
+    "1. Daily Plan/2024/Mar. 2024/2024-03-05.md",
+    "1. Daily Plan/2024/Mar. 2024/2024-03-04.md",
+    "1. Daily Plan/2024/Mar. 2024/2024-03-06.md",
     "1. Daily Plan/2024/Mar. 2024",
     "1. Daily Plan/2024/무제 파일.md",
-    "1. Daily Plan/2024/Mar. 2024/2024-03-04.md",
     "1. Daily Plan/2024/Feb. 2024/2024-02-22.md",
     "4. MnBi/Files/~$연구개발계획서(2차년도) - 2023-09-18.pptx",
     "4. MnBi/The target of 2nd year with Hyudai.md",
@@ -202,7 +204,6 @@
     "Templates/Weekly planner.md",
     "2. Weekly Plan/2024-W04.md",
     "2. Weekly Plan",
-    "1. Daily Plan/2024-01-26.md",
     "1. Daily Plan/2024/Jan. 2024",
     "1. Daily Plan/2024",
     "1. Daily Plan/2023",
@@ -210,7 +211,6 @@
     "4. MnBi/Files/~$23_추계자기학회_Abstract_4th_modified.doc",
     "4. MnBi/Files/연구개발계획서(2차년도) - 2023-09-18.pptx",
     "4. MnBi/Files/Pasted image 20231113163922.png",
-    "context.mdb",
     "5. Course work/Photonics/Images/Pasted image 20231017025811.png",
     "5. Course work/Photonics/Images/Pasted image 20231017025804.png",
     "5. Course work/Photonics/Images/Pasted image 20231017025433.png",
