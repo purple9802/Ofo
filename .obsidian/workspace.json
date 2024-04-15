@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily Plan/2024-04-12.md",
+                "file": "1. Daily Plan/2024/Apr. 2024/2024-04-15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80faf2ebae68b447",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily Plan/2024/Apr. 2024/2024-04-12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "160f0cf53ed4ecde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily Plan/2024/Apr. 2024/2024-04-15.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily Plan/2024-04-12.md"
+                "file": "1. Daily Plan/2024/Apr. 2024/2024-04-15.md"
               }
             }
           },
@@ -131,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily Plan/2024-04-12.md",
+                "file": "1. Daily Plan/2024/Apr. 2024/2024-04-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily Plan/2024-04-12.md",
+                "file": "1. Daily Plan/2024/Apr. 2024/2024-04-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,10 +196,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "18040ea1248f436a",
+  "active": "1604f1783b827360",
   "lastOpenFiles": [
+    "1. Daily Plan/2024/Apr. 2024/2024-04-12.md",
+    "1. Daily Plan/2024/Apr. 2024/2024-04-15.md",
     "1. Daily Plan/2024/Apr. 2024/2024-04-08.md",
-    "1. Daily Plan/2024-04-12.md",
     "4. MnBi/Tinkin' of Grain boundary modification.md",
     "4. MnBi/The idea.md",
     "1. Daily Plan/2024/Apr. 2024/Apr. 2024.md",
@@ -202,7 +228,6 @@
     "1. Daily Plan/2024/Feb. 2024",
     "1. Daily Plan/2024/Jan. 2024/2024-01-30.md",
     "1. Daily Plan/2024/Jan. 2024/2024-01-22.md",
-    "1. Daily Plan/2024-01-22.md",
     "무제 파일.canvas",
     "2. Weekly Plan",
     "1. Daily Plan/2024/Jan. 2024",
