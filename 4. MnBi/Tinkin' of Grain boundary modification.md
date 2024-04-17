@@ -28,3 +28,4 @@ sticker: lucide//lightbulb
 	1. Bi<sub>58</sub>Sn<sub>42</sub> - melting point 139 °C
 	2. Bi<sub>57</sub>Sn<sub>43</sub> - melting point 138 °C
 	3.  These are really ductile, so do melt spin for make powder
+	4. How about Sn-Cu?
