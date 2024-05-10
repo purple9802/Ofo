@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily Plan/2024/Apr. 2024/2024-04-15.md"
+                "file": "1. Daily Plan/2024/May. 2024/2024-05-10.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily Plan/2024/Apr. 2024/2024-04-15.md",
+                "file": "1. Daily Plan/2024/May. 2024/2024-05-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily Plan/2024/Apr. 2024/2024-04-15.md",
+                "file": "1. Daily Plan/2024/May. 2024/2024-05-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,8 +196,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1604f1783b827360",
+  "active": "160f0cf53ed4ecde",
   "lastOpenFiles": [
+    "1. Daily Plan/2024/Apr. 2024/2024-04-15.md",
     "1. Daily Plan/2024/May. 2024/2024-05-04.md",
     "1. Daily Plan/2024/May. 2024/2024-05-10.md",
     "1. Daily Plan/2024/May. 2024/May. 2024.md",
@@ -207,7 +208,6 @@
     "1. Daily Plan/2024/Apr. 2024/2024-04-21.md",
     "1. Daily Plan/2024/Apr. 2024/2024-04-18.md",
     "4. MnBi/Tinkin' of Grain boundary modification.md",
-    "1. Daily Plan/2024/Apr. 2024/2024-04-15.md",
     "1. Daily Plan/2024/Apr. 2024/2024-04-12.md",
     "1. Daily Plan/2024/Apr. 2024/2024-04-08.md",
     "4. MnBi/The idea.md",
