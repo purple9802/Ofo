@@ -37,14 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily Plan/2024-05-24.md",
+                "file": "1. Daily Plan/2024/May. 2024/2024-05-17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38e3daed958849d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily Plan/2024/May. 2024/2024-05-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a7808207adf2f65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily Plan/2024/May. 2024/2024-05-27.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily Plan/2024-05-24.md"
+                "file": "1. Daily Plan/2024/May. 2024/2024-05-27.md"
               }
             }
           },
@@ -156,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily Plan/2024-05-24.md",
+                "file": "1. Daily Plan/2024/May. 2024/2024-05-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily Plan/2024-05-24.md",
+                "file": "1. Daily Plan/2024/May. 2024/2024-05-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,10 +220,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "160f0cf53ed4ecde",
+  "active": "5a7808207adf2f65",
   "lastOpenFiles": [
-    "1. Daily Plan/2024-05-17.md",
-    "1. Daily Plan/2024-05-24.md",
+    "1. Daily Plan/2024/May. 2024/2024-05-24.md",
+    "1. Daily Plan/2024/May. 2024/2024-05-27.md",
+    "1. Daily Plan/2024/May. 2024/2024-05-17.md",
     "1. Daily Plan/2024/May. 2024/2024-05-13.md",
     "4. MnBi/The idea.md",
     "4. MnBi/For solid state sintering.md",
@@ -225,7 +250,6 @@
     "1. Daily Plan/2024/Mar. 2024/2024-03-11.md",
     "1. Daily Plan/2024/Mar. 2024/2024-03-07.md",
     "1. Daily Plan/2024/Mar. 2024/2024-03-05.md",
-    "1. Daily Plan/2024/Mar. 2024/2024-03-04.md",
     "1. Daily Plan/2024/Mar. 2024",
     "4. MnBi/Files/~$연구개발계획서(2차년도) - 2023-09-18.pptx",
     "1. Daily Plan/2024/Feb. 2024",
