@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "93f94bd0b097ec46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ball mill.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily Plan/2024/Jun. 2024/2024-06-21.md"
+                "file": "Ball mill.md"
               }
             }
           },
@@ -131,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily Plan/2024/Jun. 2024/2024-06-21.md",
+                "file": "Ball mill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily Plan/2024/Jun. 2024/2024-06-21.md",
+                "file": "Ball mill.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +184,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4e5929cdaa2b1ba7",
+  "active": "93f94bd0b097ec46",
   "lastOpenFiles": [
     "1. Daily Plan/2024/Jun. 2024/2024-06-17.md",
     "1. Daily Plan/2024/Jun. 2024/2024-06-21.md",
