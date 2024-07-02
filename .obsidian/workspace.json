@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ball mill.md",
+                "file": "1. Daily Plan/2024/Jul. 2024/2024-07-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ball mill.md"
+                "file": "1. Daily Plan/2024/Jul. 2024/2024-07-02.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ball mill.md",
+                "file": "1. Daily Plan/2024/Jul. 2024/2024-07-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ball mill.md",
+                "file": "1. Daily Plan/2024/Jul. 2024/2024-07-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,8 +186,11 @@
   },
   "active": "93f94bd0b097ec46",
   "lastOpenFiles": [
-    "1. Daily Plan/2024/Jun. 2024/2024-06-17.md",
     "1. Daily Plan/2024/Jun. 2024/2024-06-21.md",
+    "1. Daily Plan/2024/Jul. 2024/2024-07-02.md",
+    "1. Daily Plan/2024/Jul. 2024",
+    "Ball mill.md",
+    "1. Daily Plan/2024/Jun. 2024/2024-06-17.md",
     "1. Daily Plan/2024/Jun. 2024/2024-06-18.md",
     "1. Daily Plan/2024/Jun. 2024/2024-06-16.md",
     "1. Daily Plan/2024/Jun. 2024/2024-06-12.md",
@@ -207,12 +210,10 @@
     "1. Daily Plan/2024/May. 2024/2024-05-27.md",
     "4. MnBi/The idea.md",
     "4. MnBi/For solid state sintering.md",
-    "Ball mill.md",
     "1. Daily Plan/2024/May. 2024/2024-05-13.md",
     "4. MnBi/Tinkin' of Grain boundary modification.md",
     "1. Daily Plan/2024/May. 2024/2024-05-04.md",
     "1. Daily Plan/2024/May. 2024/2024-05-10.md",
-    "1. Daily Plan/2024/May. 2024/May. 2024.md",
     "1. Daily Plan/2024/May. 2024",
     "1. Daily Plan/2024/Apr. 2024",
     "1. Daily Plan/2024/Mar. 2024",
@@ -222,7 +223,6 @@
     "2. Weekly Plan",
     "1. Daily Plan/2024/Jan. 2024",
     "1. Daily Plan/2024",
-    "1. Daily Plan/2023",
     "4. MnBi/Files/Pasted image 20231113163922.png",
     "5. Course work/Photonics/Images/Pasted image 20231017025811.png",
     "5. Course work/Photonics/Images/Pasted image 20231017025804.png",

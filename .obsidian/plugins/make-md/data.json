@@ -43,7 +43,8 @@
       "1. Daily Plan/2024",
       "/",
       "4. MnBi",
-      "1. Daily Plan/2024/Jun. 2024"
+      "1. Daily Plan/2024",
+      "1. Daily Plan/2024/Jul. 2024"
     ]
   },
   "expandedSpaces": [
@@ -81,7 +82,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1719474319175,
+  "spacesAutoBackupLast": 1719883010705,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
