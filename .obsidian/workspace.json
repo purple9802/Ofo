@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b11955919ba1e4a6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,7 +194,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1604f1783b827360",
+  "active": "b11955919ba1e4a6",
   "lastOpenFiles": [
     "1. Daily Plan/2024/Jul. 2024/2024-07-02.md",
     "1. Daily Plan/2024/Jul. 2024/2024-07-08.md",
