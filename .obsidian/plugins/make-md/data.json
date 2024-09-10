@@ -41,9 +41,8 @@
       "5. Course work/Photonics",
       "1. Daily Plan",
       "/",
-      "4. MnBi",
       "1. Daily Plan/2024",
-      "1. Daily Plan/2024/Sep. 2024"
+      "2. Weekly Plan"
     ]
   },
   "expandedSpaces": [
@@ -81,7 +80,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1725932426030,
+  "spacesAutoBackupLast": 1725941306595,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
