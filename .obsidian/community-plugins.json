@@ -1,5 +1,6 @@
 [
   "obsidian-tasks-plugin",
   "calendar",
-  "make-md"
+  "make-md",
+  "obsidian-git"
 ]
