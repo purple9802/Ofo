@@ -1,5 +1,8 @@
-.DS_Store obsidian/workspace.json
-obsidian/workspace.json
-.obsidian/workspace.json
-obsidian/workspace-mobile.json
+.obsidian/
+
 .obsidian/workspace-mobile.json
+.obsidian/workspace.json
+.obsidian/app.json
+
+.trash/
+.DS_Store
