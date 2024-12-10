@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "5c116e10c1666369",
+            "id": "6a3d8ece636b605c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -175,6 +175,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -183,7 +184,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5c116e10c1666369",
+  "active": "6a3d8ece636b605c",
   "lastOpenFiles": [
     "1. Daily Plan/2024/Dec. 2024/2024-12-04.md",
     "1. Daily Plan/2024/Dec. 2024/2024-12-05.md",
